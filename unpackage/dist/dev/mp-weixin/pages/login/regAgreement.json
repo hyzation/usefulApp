@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "有用APP用户注册协议",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "jyf-parser": "/components/jyf-parser/jyf-parser"
+  }
+}

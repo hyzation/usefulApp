@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "支付通道",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-empty": "/GraceUI5/components/gui-empty",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-modal": "/GraceUI5/components/gui-modal"
+  }
+}

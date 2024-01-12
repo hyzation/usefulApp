@@ -1,0 +1,10 @@
+
+page{background-color:#F8F8F8;}
+.h160{height: 160rpx;}
+.cFD2C55{color: #FD2C55;}
+.btns{width:690rpx;height:90rpx;background: #ff4f00;border-radius: 45rpx;text-align: center;line-height: 90rpx;color: #fff;margin:0 auto;}
+.payBox{width:650rpx;background-color:#F8F8F8;border-radius:20rpx;}
+.orderBtn{width:180rpx;text-align:center;height:70rpx;line-height:70rpx;border-radius:35rpx;font-size:30rpx;margin-left:20rpx;color:#FFFFFF;padding:0!important;}
+.orderBtn2{width:180rpx;text-align:center;height:70rpx;line-height:70rpx;border-radius:35rpx;font-size:30rpx;margin-left:20rpx;padding:0!important;border:thin solid #FF4F00;color:#FF4F00;}
+.orderBtn3{width:180rpx;text-align:center;height:70rpx;line-height:70rpx;border-radius:35rpx;font-size:30rpx;margin-left:20rpx;padding:0!important;border:thin solid #999999;color:#999999;}
+

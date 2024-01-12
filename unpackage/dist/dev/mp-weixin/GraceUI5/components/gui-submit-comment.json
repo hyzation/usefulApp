@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gui-popup": "/GraceUI5/components/gui-popup",
+    "gui-iphone-bottom": "/GraceUI5/components/gui-iphone-bottom"
+  }
+}

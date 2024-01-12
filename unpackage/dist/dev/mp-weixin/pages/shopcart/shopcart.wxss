@@ -1,0 +1,27 @@
+
+page{background-color:#F5F5F9;}
+.color16A1A6{color:#FF4F00;}
+.shopLi{width:620rpx;}
+.shopLiImg{width:160rpx;height:160rpx;}
+.shopLiImg image{width:100%;height:100%;border-radius:20rpx;}
+.shopLiInfo{width:440rpx;}
+.shopLiInfou{font-size:28rpx;width:400rpx;}
+.shopLiInfom{font-size:22rpx;color:#999999;height:60rpx;line-height:60rpx;}
+.shopLiInfomm{font-size:22rpx;color:#FF4F00;height:80rpx;}
+.price{font-size:30rpx;margin-right:20rpx;}
+.del{font-size:36rpx;top:10rpx;right:10rpx;color:#353535;}
+.shopCartFooter{width:100%;background-color:#FFFFFF;height:100rpx;}
+.shopCartFooter_{width:100%;height:100rpx;}
+.scFooter{height:100%;padding:0 30rpx 0 50rpx;width:670rpx;}
+.scFooter:after{content:" ";position:absolute;top:0;left:0;right:0;border-top:1px solid #F8F8F8;-webkit-transform-origin: 0 0;transform-origin: 0 0;-webkit-transform: scaleY(.5);transform: scaleY(.5);}
+.checkAll{font-size:28rpx;margin:0 10rpx 0 20rpx;}
+.groupR{font-size:26rpx;text-align:center;color:#FFFFFF;background-color:#FF4F00;width:146rpx;height:64rpx;border-radius:32rpx;line-height:64rpx;}
+.sbtn{font-size:20rpx;color:#FFFFFF;border-radius:6rpx;padding:0 2rpx;margin-right:10rpx;}
+.sbtnbg1{background-color:#EA333F;}
+.sbtnbg2{background-color:#999999;}
+.shopLiInfou_{width:270rpx;}
+.color999999{color:#999999;}
+.footerH{height:60px;}
+.h20{height:20rpx;}
+.noStock{width:40rpx;left:20rpx;top:20rpx;line-height:22rpx;}
+

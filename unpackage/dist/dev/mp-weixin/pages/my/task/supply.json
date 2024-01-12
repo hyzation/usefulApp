@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "提交货源",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "grace-select-img-and-upload-qiniu": "/components/graceSelectImgAndUploadQiniu/graceSelectImgAndUploadQiniu"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-area-picker": "/GraceUI5/components/gui-area-picker",
+    "gui-modal": "/GraceUI5/components/gui-modal"
+  }
+}

@@ -1,0 +1,37 @@
+{
+	"name": "阿里百川4.0，淘宝授权登录",
+	"id": "PP-ALBC",
+	"version": "2.0",
+	"description": "阿里百川最新4.0，不足的地方持续更新",
+	"_dp_type": "nativeplugin",
+	"_dp_nativeplugin": {
+		"ios": {
+			"plugins": [{
+				"type": "module",
+				"name": "PP-ALBC",
+				"class": "PPALBCModule"
+			}],
+			"integrateType": "framework",
+			"hooksClass": "PPALBCProxy",
+			"resources": ["mtopsdk_configuration.plist","yw_1222.jpg"],
+			"frameworks": ["libPPBaiduAR.framework","libz.tbd", "libc++.tbd", "libsqlite3.tbd", "CoreMotion.framework", "CoreTelephony.framework"],
+			"plists": {
+				"LSApplicationQueriesSchemes": ["tbopen", "tmall"]
+			},
+			"deploymentTarget": "10.0",
+			"parameters": {
+				
+			}
+		},
+		"android": {
+			"plugins": [{
+				"type": "module",
+				"name": "PP-ALBC",
+				"class": "com.fsyang.plugin.albc.FYALBCModule"
+			}],
+			"hooksClass": "com.fsyang.plugin.albc.FYALBCProxy",
+			"integrateType": "aar",
+			"dependencies": []
+		}
+	}
+}

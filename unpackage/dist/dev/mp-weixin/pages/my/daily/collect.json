@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-switch-navigation": "/GraceUI5/components/gui-switch-navigation",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-empty": "/GraceUI5/components/gui-empty",
+    "gui-loadmore": "/GraceUI5/components/gui-loadmore",
+    "gui-modal": "/GraceUI5/components/gui-modal"
+  }
+}

@@ -1,0 +1,14 @@
+
+page{background-color:#F8F8F8;}
+.addr{padding:30rpx;margin-top:20rpx;background-color:#FFFFFF;}
+.addrl{width:620rpx;}
+.addrlu text{font-size:30rpx;margin-right:20rpx;}
+.addrr{width:40rpx;}
+.addrlb{margin-top:16rpx;}
+.addrlbl{width:60rpx;height:28rpx;line-height:28rpx;text-align:center;background-color:#ff4f00;color:#FFFFFF;font-size:20rpx;border-radius:4rpx;margin-right:20rpx;}
+.addrlbr{width:540rpx;font-size:28rpx;color:#666666;line-height:32rpx;}
+.addrlbr_{width:610rpx;font-size:28rpx;color:#666666;line-height:32rpx;}
+.lb{left:30rpx;bottom:86rpx;}
+.add{font-size:26rpx;margin-right:4rpx;}
+.btns{width:690rpx;height:90rpx;background: #ff4f00;border-radius: 45rpx;text-align: center;line-height: 90rpx;color: #fff;margin:0 auto;}
+

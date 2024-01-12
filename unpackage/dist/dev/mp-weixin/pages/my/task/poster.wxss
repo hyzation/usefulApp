@@ -1,0 +1,7 @@
+
+page{/* background-image:linear-gradient(to bottom,#3eb075,#FFFFFF); */ background-color:#;}
+/* .gui-page-loading-color{background-color:#FFFFFF;} */
+.lime-painter{position:fixed;left:2000rpx;}
+.saveBtn{position:fixed;z-index:999;width:260rpx;text-align:center;font-size:40rpx;height:90rpx;line-height:90rpx;border-radius:45rpx;background-color:#f18f2c;bottom:30rpx;left:245rpx;}
+.h5Desc{text-align:center;font-size:28rpx;color:#f18f2c;width:100%;position:fixed;left:0;bottom:30rpx;}
+

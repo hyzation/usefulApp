@@ -1,0 +1,1 @@
+<gui-page class="vue-ref" vue-id="b3ab39ee-1" isLoading="{{pageLoading}}" data-ref="guiPage" bind:__l="__l" vue-slots="{{['gBody']}}"><view slot="gBody"><block wx:if="{{url!=''}}"><web-view webview-styles="{{webviewStyles}}" src="{{url}}"></web-view></block></view></gui-page>

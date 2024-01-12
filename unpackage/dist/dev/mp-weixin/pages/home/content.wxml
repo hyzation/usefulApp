@@ -1,0 +1,1 @@
+<gui-page class="vue-ref" vue-id="583bccf8-1" isLoading="{{pageLoading}}" data-ref="guiPage" bind:__l="__l" vue-slots="{{['gBody']}}"><view slot="gBody"><block wx:if="{{content}}"><view class="p20"><jyf-parser class="vue-ref" vue-id="{{('583bccf8-2')+','+('583bccf8-1')}}" html="{{content}}" data-ref="article" bind:__l="__l"></jyf-parser></view></block></view></gui-page>

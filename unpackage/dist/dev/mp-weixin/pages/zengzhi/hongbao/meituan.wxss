@@ -1,0 +1,85 @@
+
+page {
+	background-color: #fac829;
+	font-family: MEDIUM;
+}
+
+.dd-warp.data-v-5cf2819f {
+  position: relative;
+}
+.dd-warp .card_1.data-v-5cf2819f {
+  position: absolute;
+  bottom: -100rpx;
+  left: calc(50% - 46%);
+  width: 92%;
+  height: 140rpx;
+  background-color: #FFFFFF;
+  border-radius: 15rpx;
+}
+.dd-card-h.data-v-5cf2819f {
+  position: relative;
+  margin: 0 auto;
+  margin-top: 140rpx;
+  width: 92%;
+  height: 223rpx;
+  background-color: #FFFFFF;
+  border: 14rpx solid #FFAE54;
+  border-radius: 25rpx;
+}
+.dd-card-h .card-but.data-v-5cf2819f {
+  position: absolute;
+  bottom: 11rpx;
+  left: calc(50% - 46%);
+  width: 340rpx;
+  height: 40rpx;
+  background: linear-gradient(270deg, #F98933 0%, #FDB24E 100%);
+  border-radius: 29rpx;
+  letter-spacing: 12rpx;
+  text-align: center;
+  line-height: 40rpx;
+  color: #FFFFFF;
+  font-family: MEDIUM;
+  font-size: 24rpx;
+}
+.dd-card.data-v-5cf2819f {
+  margin-top: 2%;
+  padding: 0 20rpx;
+}
+.dd-card .card.data-v-5cf2819f {
+  position: relative;
+  width: 326rpx;
+  height: 397rpx;
+  background-color: #FFFFFF;
+  border: 14rpx solid #FFAE54;
+  border-radius: 25rpx;
+  text-align: center;
+}
+.dd-card .card .card-text.data-v-5cf2819f {
+  font-size: 34rpx;
+  padding-top: 25rpx;
+  padding-bottom: 10rpx;
+  color: #FFAE54;
+}
+.dd-card .card .card-but.data-v-5cf2819f {
+  position: absolute;
+  bottom: 11rpx;
+  left: calc(50% - 46%);
+  width: 92%;
+  height: 58rpx;
+  background: linear-gradient(270deg, #F98933 0%, #FDB24E 100%);
+  border-radius: 29rpx;
+  text-align: center;
+  line-height: 58rpx;
+  color: #FFFFFF;
+  font-family: MEDIUM;
+  font-size: 24rpx;
+}
+.rule.data-v-5cf2819f {
+  margin-top: 52rpx;
+  width: 92%;
+  height: 170rpx;
+  background-color: #fac829;
+  border: 2rpx solid #383838;
+  border-radius: 16rpx;
+}
+

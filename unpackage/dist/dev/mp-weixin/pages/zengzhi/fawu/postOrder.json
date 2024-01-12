@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "提交订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-popup": "/GraceUI5/components/gui-popup",
+    "gui-image": "/GraceUI5/components/gui-image"
+  }
+}

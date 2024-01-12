@@ -1,0 +1,13 @@
+
+page{background-color:#F8F8F8;}
+.lb{left:30rpx;bottom:30rpx;}
+.main{margin:20rpx 30rpx;padding:20rpx 30rpx 10rpx 30rpx;background-color:#FFFFFF;border-radius:10rpx;}
+.desc{width:100%;font-size:30rpx;min-height:150rpx;margin-top:20rpx;}
+.color999999{color:#999999;font-size:30rpx;}
+.fontNum{font-size:28rpx;margin-top:10rpx;}
+.camera{width:180rpx;margin-top:60rpx;}
+.imgli{width:180rpx;height:180rpx;}
+.imgli image{width:100%;height:100%;border-radius:10rpx;}
+.marginT{margin-top:90rpx;}
+.postBtn{width:690rpx;height:90rpx;margin-top:60rpx;font-size:30rpx;line-height:90rpx;padding:0;border-radius:46rpx;background-color:#FF4F00;color:#FFFFFF;border:none!important;}
+

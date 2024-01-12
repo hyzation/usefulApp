@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "搜索",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-search": "/GraceUI5/components/gui-search",
+    "gui-switch-navigation": "/GraceUI5/components/gui-switch-navigation",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-empty": "/GraceUI5/components/gui-empty",
+    "gui-loadmore": "/GraceUI5/components/gui-loadmore"
+  }
+}

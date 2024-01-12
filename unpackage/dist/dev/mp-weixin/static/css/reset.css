@@ -1,0 +1,126 @@
+
+.padding_5{padding: 5rpx;}
+.padding_tb6{ padding-top: 6rpx; padding-bottom: 6rpx;}
+.padding_t10{ padding-top: 10rpx;}
+.padding_t20{padding-top: 20rpx;}
+.padding_tb10{ padding-top: 10rpx; padding-bottom: 10rpx;}
+.padding_30{ padding: 30rpx;}
+.padding_t30{ padding-top: 30rpx;}
+.padding_tb30{ padding-top: 30rpx; padding-bottom: 30rpx;}
+.padding_20{ padding: 20rpx;}
+.padding_l30{padding-left: 30rpx;}
+.padding_l20{ padding-left: 20rpx;}
+.padding_l10{padding-left:10rpx;}
+.padding_r30{ padding-right: 30rpx;}
+.padding_r20{ padding-right: 20rpx;}
+.padding_r10{ padding-right: 10rpx;}
+.padding_tb20{ padding-top: 20rpx; padding-bottom: 20rpx;}
+.padding_lr20{ padding-left: 20rpx; padding-right: 20rpx;}
+.padding_b20{padding-bottom:20rpx ;}
+.padding_b30{padding-bottom:30rpx ;}
+.padding_b10{padding-bottom:10rpx ;}
+.padding_lr30{padding-left: 30rpx;padding-right: 30rpx;}
+.padding_tb15{padding-top: 15rpx;padding-bottom: 15rpx;}
+.margin-b20{ margin-bottom: 20rpx;}
+.line-15{ height: 15rpx;}
+.line-20{ height: 20rpx;}
+.margin20{margin:20rpx;}
+.margin-t20{margin-top:20rpx;}
+.margin-l20{margin-left:20rpx;}
+.margin-l30{margin-left: 30rpx;}
+.margin-r30{margin-right:30rpx;}
+.margin-r20{margin-right:20rpx;}
+.margin-r10{margin-right: 10rpx;}
+.margin-t10{margin-top: 10rpx;}
+.margin-l140{margin-left: 140rpx;}
+.margin-l60{margin-left: 60rpx;}
+.margin-lr30{margin-left: 30rpx;margin-right: 30rpx;}
+.display-flex{display: flex;}
+.color-66{color: #666666;}
+.color-444444{color: #444444;}
+.color-999999{color: #999999;}
+.color-FF0D00{color: #FF0D00;}
+.color-0B181E{ color: #0B181E;}
+.color-03A95A{ color: #03A95A;}
+.color-1A6C3E{color:#1A6C3E;}
+.color-ff{color: #FFFFFF;}
+.color-4C3426{color: #4C3426;}
+.color-E7BF9B{color: #E7BF9B;}
+.color-E7E7E7{color: #E7E7E7;}
+.color-EBF0EE{color: #EBF0EE;}
+.color-16A1A6{color: #16A1A6;}
+.color-DAB082{color: #DAB082;}
+.color-724823{color: #724823;}
+.color-333333{color: #333333;}
+.color-C7AF85{color: #C7AF85;}
+.color-318BFF{color: #318BFF;}
+.bg-F8F8F8{background: #F8F8F8;}
+.bg-999999{background: #999999;}
+.bg-E7BF9B{ background: #E7BF9B;}
+.bg-F7F7F7{ background: #F7F7F7;}
+.bg-FFFFFF{background: #FFFFFF;}
+.bg-EBF0EE{background: #EBF0EE;}
+.bg-318BFF{background: #318BFF;}
+.bg-F85F52{background: #F85F52;}
+.bg-16A1A6{background: #16A1A6;}
+.bg-F9DB3B{background: #F9DB3B;}
+.bg-3875c6{background: #3875c6;}
+.width-30{width: 30rpx;}
+.width-95{width: 95%;}
+.width-100rpx{width:100rpx;}
+.width-150rpx{width: 150rpx;}
+.height-100r{height: 100rpx;}
+.height-30{height: 30rpx;}
+.height-100{height: 100%;}
+.margin-b50{margin-bottom: 50rpx;}
+.margin-t60{margin-top: 60rpx;}
+.border-r10{border-radius: 10rpx;}
+.width-100{width: 100%;}
+.line-100{height: 100rpx;}
+.line-134{height: 134rpx;}
+.text-left{ text-align: left;}
+.text-right{ text-align: right;}
+.text-center{text-align: center;}
+.grace-fixed-top{ top: 44px;}
+.fixed-height{ height: 44px;}
+.heightBottomDialog{ max-height: 300px; overflow-y:auto ;}
+.display-i-b{display:inline-block;}
+.fontsize18{font-size: 18rpx;}
+.fontsize20{font-size: 20rpx;}
+.fontsize22{font-size: 22rpx;}
+.fontsize24{font-size: 24rpx;}
+.fontsize25{font-size: 25rpx;}
+.fontsize26{font-size: 26rpx;}
+.fontsize28{font-size: 28rpx;}
+.fontsize30{font-size: 30rpx;}
+.fontsize32{font-size: 32rpx;}
+.fontsize35{font-size: 35rpx;}
+.fontsize38{font-size: 38rpx;}
+.fontsize100{font-size: 100rpx;}
+.margin-l25{margin-left: 25rpx;}
+.margin-r25{margin-right: 25rpx;}
+.padding-l39{margin-left: 39rpx;}
+.marginl-35{margin-left: 35rpx;}
+.padding-tb36{padding-top: 36rpx;padding-bottom: 36rpx;}
+.fontsize40{font-size: 40rpx;}
+.fontsize50{font-size: 50rpx;}
+.margin-b30{margin-bottom: 30rpx;}
+.margin-t30{margin-top: 30rpx;}
+.bg-272727{background: #272727;}
+.bg-FCD8A7{background: #FCD8A7;}
+.color-4C2800{color: #4C2800;}
+.align-cen{align-items: center;}
+.border-r30{border-radius: 30rpx;}
+.border-b{border-bottom: 1rpx solid #F7F7F7;}
+.border-r20{border-radius: 20rpx;}
+.border-r100{border-radius: 100rpx;}
+.padding-tb60{padding: 60rpx 0;}
+button::after{border: 0;}
+.top-ricon{width: 43rpx;height: 43rpx;padding-right: 30rpx;}
+.icon-merchant{width: 30rpx;height: 30rpx;position: relative;top:5rpx;}
+.button-classic{color: #FFFFFF;width: 90%;background: #1A6C3E;font-size: 32rpx;}
+.button-classics{background: #FFFFFF;width: 90%;color: #1A6C3E;font-size: 32rpx;border: 1rpx solid #1A6C3E;}
+.width-150{width: 150rpx;}
+.float-l{float: left;}
+.float-r{float: right;}
+.border-r{border-radius: 200rpx;}

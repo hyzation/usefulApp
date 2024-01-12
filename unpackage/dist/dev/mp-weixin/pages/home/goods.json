@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-swiper": "/GraceUI5/components/gui-swiper",
+    "jyf-parser": "/components/jyf-parser/jyf-parser",
+    "gui-popup": "/GraceUI5/components/gui-popup",
+    "gui-step-box": "/GraceUI5/components/gui-step-box",
+    "l-painter": "/uni_modules/lime-painter/components/l-painter/l-painter",
+    "l-painter-image": "/uni_modules/lime-painter/components/l-painter-image/l-painter-image",
+    "l-painter-view": "/uni_modules/lime-painter/components/l-painter-view/l-painter-view",
+    "l-painter-text": "/uni_modules/lime-painter/components/l-painter-text/l-painter-text"
+  }
+}

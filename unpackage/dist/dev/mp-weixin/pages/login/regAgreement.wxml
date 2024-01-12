@@ -1,0 +1,1 @@
+<gui-page vue-id="4ff2a0b1-1" isLoading="{{pageLoading}}" bind:__l="__l" vue-slots="{{['gBody']}}"><view slot="gBody"><view class="p30"><jyf-parser class="vue-ref" vue-id="{{('4ff2a0b1-2')+','+('4ff2a0b1-1')}}" html="{{data}}" data-ref="article" bind:__l="__l"></jyf-parser></view></view></gui-page>

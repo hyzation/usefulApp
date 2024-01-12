@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "自营订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-switch-navigation": "/GraceUI5/components/gui-switch-navigation",
+    "gui-empty": "/GraceUI5/components/gui-empty",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-modal": "/GraceUI5/components/gui-modal"
+  }
+}

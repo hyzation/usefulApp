@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收款",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-action-sheet": "/GraceUI5/components/gui-action-sheet"
+  }
+}

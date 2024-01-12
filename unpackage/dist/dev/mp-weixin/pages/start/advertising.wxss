@@ -1,0 +1,9 @@
+
+.btn{z-index:999;width:120rpx;border-radius:30rpx;height:60rpx;line-height:60rpx;text-align:center;position:fixed;right:40rpx;color:#333333;border:thin solid #333333;}
+
+
+
+
+
+
+

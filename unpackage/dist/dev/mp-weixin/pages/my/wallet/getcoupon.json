@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "领券中心",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-popup": "/GraceUI5/components/gui-popup"
+  }
+}

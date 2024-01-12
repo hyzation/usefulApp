@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "提现",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#F6F6F8",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-radio": "/GraceUI5/components/gui-radio",
+    "gui-empty": "/GraceUI5/components/gui-empty"
+  }
+}

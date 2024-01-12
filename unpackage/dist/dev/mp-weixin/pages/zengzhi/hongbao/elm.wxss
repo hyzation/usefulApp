@@ -1,0 +1,61 @@
+
+page {
+	background-color: #039dfd;
+	font-family: MEDIUM;
+}
+
+.dd-warp.data-v-e4e9e1f4 {
+  position: relative;
+}
+.dd-warp .card_1.data-v-e4e9e1f4 {
+  position: absolute;
+  bottom: -100rpx;
+  left: calc(50% - 46%);
+  width: 92%;
+  height: 140rpx;
+  background-color: #FFFFFF;
+  border-radius: 15rpx;
+}
+.dd-card.data-v-e4e9e1f4 {
+  margin-top: 140rpx;
+  padding: 0 20rpx;
+}
+.dd-card .card.data-v-e4e9e1f4 {
+  position: relative;
+  width: 326rpx;
+  height: 422rpx;
+  background-color: #FFFFFF;
+  border: 14rpx solid #006CB0;
+  border-radius: 25rpx;
+  text-align: center;
+}
+.dd-card .card .card-text.data-v-e4e9e1f4 {
+  padding-top: 35rpx;
+  padding-bottom: 21rpx;
+  font-size: 34rpx;
+  color: #0D499C;
+}
+.dd-card .card .card-but.data-v-e4e9e1f4 {
+  position: absolute;
+  bottom: 21rpx;
+  left: calc(50% - 46%);
+  width: 92%;
+  height: 58rpx;
+  background: linear-gradient(270deg, #F98933 0%, #FDB24E 100%);
+  border-radius: 29rpx;
+  text-align: center;
+  line-height: 58rpx;
+  color: #FFFFFF;
+  font-family: MEDIUM;
+  font-size: 24rpx;
+}
+.rule.data-v-e4e9e1f4 {
+  background-color: #039dfd;
+  color: #FFFFFF;
+  border: thin solid #FFFFFF;
+  border-radius: 16rpx;
+  margin: 20rpx;
+  font-size: 28rpx;
+  padding: 20rpx;
+}
+

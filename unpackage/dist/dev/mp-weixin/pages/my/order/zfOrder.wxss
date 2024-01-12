@@ -1,0 +1,5 @@
+
+page{background-color:#F8F8F8;}
+.h100{height:100rpx;}
+.list-item{padding:30rpx;}
+

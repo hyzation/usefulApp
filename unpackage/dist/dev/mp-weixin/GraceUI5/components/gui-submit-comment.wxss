@@ -1,0 +1,10 @@
+
+.gui-comments.data-v-7031fd9d{padding:10rpx 30rpx;}
+.gui-comments-at.data-v-7031fd9d{line-height:80rpx; height:80rpx; font-size:28rpx; font-weight:bold;}
+.gui-comments-textarea.data-v-7031fd9d{width:200rpx; border-radius:8rpx; padding:15rpx; font-size:26rpx; line-height:36rpx; height:160rpx; flex:1;}
+.gui-comments-img.data-v-7031fd9d{width:160rpx; height:160rpx; margin-right:25rpx; font-size:0; overflow:hidden; border-radius:8rpx;}
+.gui-comments-img-in.data-v-7031fd9d{width:160rpx;}
+.gui-comments-img-remove.data-v-7031fd9d{width:60rpx; height:60rpx; line-height:60rpx; position:absolute; right:0; top:0; text-align:center; font-size:50rpx; color:#FF0036;}
+.gui-comments-btns.data-v-7031fd9d{width:96rpx; height:80rpx; line-height:80rpx; font-size:44rpx;}
+.gui-comments-submit.data-v-7031fd9d{width:180rpx; text-align:right; font-size:28rpx;}
+

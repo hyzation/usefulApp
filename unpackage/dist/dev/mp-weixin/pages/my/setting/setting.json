@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "设置",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-modal": "/GraceUI5/components/gui-modal",
+    "gui-popup": "/GraceUI5/components/gui-popup"
+  }
+}

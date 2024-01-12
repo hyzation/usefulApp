@@ -1,0 +1,25 @@
+
+page{background-color:#F5F5F9;}
+.wh34{width:34rpx;height:34rpx;}
+.ml36{margin-left:36rpx;}
+.mr14{margin-right:14rpx;}
+.headerBox{width:670rpx;height:84rpx;padding:20rpx;border-radius:12rpx 12rpx 0 0;margin:40rpx auto 0 auto;background:url(/static/images/zheng/bg03.png) no-repeat;background-size:cover;}
+.headBgBox{width:690rpx;height:240rpx;margin:0 auto;background:url(/static/images/zheng/bg03_.png) no-repeat;background-size:100% 100%;}
+.process{width:500rpx;height:8rpx;border-radius:8rpx;background-color:#B68031;overflow:hidden;}
+.wp20{width:20%;}
+.wp25{width:25%;}
+.mt6{margin-top:6rpx;}
+.w710{width:710rpx;}
+.fw500{font-weight:500;}
+.mauto_{margin:0 auto;}
+.spBtn{padding:0 10rpx;display:inline-block;text-align:center;height:40rpx;line-height:40rpx;border-radius:6rpx;background-color:#6A4714;font-size:22rpx;color:#FFFFFF;margin-top:4rpx;}
+.orderBtn2_{padding:0 10rpx;display:inline-block;text-align:center;height:40rpx;line-height:40rpx;border-radius:6rpx;font-size:22rpx;border:thin solid #FF4F00;color:#FF4F00;margin-top:4rpx;}
+.color0{color:#FFB412;}
+.color1{color:#F5873E}
+.color2{color:#FEB012}
+.color3{color:#0254FE}
+.color4{color:#A53DFF}
+.color5{color:#FF5656}
+.color6{color:#FF5656}
+.color_{color:#9f7646;}
+

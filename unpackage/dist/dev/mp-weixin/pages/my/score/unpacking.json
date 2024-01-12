@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image"
+  }
+}

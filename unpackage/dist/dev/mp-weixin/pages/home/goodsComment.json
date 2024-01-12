@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "评价详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-empty": "/GraceUI5/components/gui-empty"
+  }
+}

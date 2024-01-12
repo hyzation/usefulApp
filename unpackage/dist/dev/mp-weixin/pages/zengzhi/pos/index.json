@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "POS机具",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-swiper": "/GraceUI5/components/gui-swiper",
+    "jyf-parser": "/components/jyf-parser/jyf-parser"
+  }
+}

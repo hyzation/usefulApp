@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "收款记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-empty": "/GraceUI5/components/gui-empty",
+    "gui-loadmore": "/GraceUI5/components/gui-loadmore",
+    "gui-action-sheet": "/GraceUI5/components/gui-action-sheet"
+  }
+}

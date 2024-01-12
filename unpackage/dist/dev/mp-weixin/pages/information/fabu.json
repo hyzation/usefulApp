@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "发布圈子",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "grace-select-img-and-upload-qiniu": "/components/graceSelectImgAndUploadQiniu/graceSelectImgAndUploadQiniu",
+    "gui-image": "/GraceUI5/components/gui-image"
+  }
+}

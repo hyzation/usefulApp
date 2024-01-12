@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "享·生活 有用福利",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#FFCB33",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-swiper": "/GraceUI5/components/gui-swiper"
+  }
+}

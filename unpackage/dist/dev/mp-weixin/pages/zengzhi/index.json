@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "惠·生活 增值服务",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#DC261F",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-swiper": "/GraceUI5/components/gui-swiper",
+    "gui-progress-scrollview": "/GraceUI5/components/gui-progress-scrollview",
+    "gui-image": "/GraceUI5/components/gui-image"
+  }
+}

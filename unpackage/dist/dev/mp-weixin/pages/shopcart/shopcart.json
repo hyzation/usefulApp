@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "购物车",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-step-box": "/GraceUI5/components/gui-step-box",
+    "gui-modal": "/GraceUI5/components/gui-modal"
+  }
+}

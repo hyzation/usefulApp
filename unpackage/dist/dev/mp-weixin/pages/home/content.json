@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#FF4F00",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "jyf-parser": "/components/jyf-parser/jyf-parser"
+  }
+}

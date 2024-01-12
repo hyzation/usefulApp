@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-header-leading": "/GraceUI5/components/gui-header-leading",
+    "l-painter": "/uni_modules/lime-painter/components/l-painter/l-painter",
+    "l-painter-image": "/uni_modules/lime-painter/components/l-painter-image/l-painter-image",
+    "l-painter-view": "/uni_modules/lime-painter/components/l-painter-view/l-painter-view",
+    "l-painter-text": "/uni_modules/lime-painter/components/l-painter-text/l-painter-text"
+  }
+}

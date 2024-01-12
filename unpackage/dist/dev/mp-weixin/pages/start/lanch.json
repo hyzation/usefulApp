@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-swiper": "/GraceUI5/components/gui-swiper"
+  }
+}

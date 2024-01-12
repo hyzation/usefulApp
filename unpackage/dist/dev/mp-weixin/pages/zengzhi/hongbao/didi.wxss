@@ -1,0 +1,60 @@
+
+page {
+	background-color: #fac829;
+	font-family: MEDIUM;
+}
+
+.dd-warp.data-v-11060b9a {
+  position: relative;
+}
+.dd-warp .card_1.data-v-11060b9a {
+  position: absolute;
+  bottom: -100rpx;
+  left: calc(50% - 46%);
+  width: 92%;
+  height: 140rpx;
+  background-color: #FFFFFF;
+  border-radius: 15rpx;
+}
+.dd-card.data-v-11060b9a {
+  margin-top: 140rpx;
+  padding: 0 20rpx;
+}
+.dd-card .card.data-v-11060b9a {
+  position: relative;
+  width: 326rpx;
+  height: 422rpx;
+  background-color: #FFFFFF;
+  border: 14rpx solid #FFAE54;
+  border-radius: 25rpx;
+  text-align: center;
+}
+.dd-card .card .card-text.data-v-11060b9a {
+  padding-top: 35rpx;
+  padding-bottom: 21rpx;
+  font-size: 34rpx;
+  color: #FFAE54;
+}
+.dd-card .card .card-but.data-v-11060b9a {
+  position: absolute;
+  bottom: 21rpx;
+  left: calc(50% - 46%);
+  width: 92%;
+  height: 58rpx;
+  background: linear-gradient(270deg, #F98933 0%, #FDB24E 100%);
+  border-radius: 29rpx;
+  text-align: center;
+  line-height: 58rpx;
+  color: #FFFFFF;
+  font-family: MEDIUM;
+  font-size: 24rpx;
+}
+.rule.data-v-11060b9a {
+  background-color: #fac829;
+  border: thin solid #383838;
+  border-radius: 16rpx;
+  margin: 20rpx;
+  font-size: 28rpx;
+  padding: 20rpx;
+}
+

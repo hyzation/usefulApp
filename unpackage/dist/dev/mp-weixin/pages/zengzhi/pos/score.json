@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的积分",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-modal": "/GraceUI5/components/gui-modal"
+  }
+}

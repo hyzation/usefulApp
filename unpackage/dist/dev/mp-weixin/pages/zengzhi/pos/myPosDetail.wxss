@@ -1,0 +1,5 @@
+
+page{background-color:#F8F8F8;}
+.boxi{width:96rpx;height:120rpx;border-radius:20rpx;margin-top:20rpx;}
+.btns{width:690rpx;height:90rpx;border-radius: 45rpx;text-align: center;line-height: 90rpx;color: #fff;margin:60rpx auto;}
+

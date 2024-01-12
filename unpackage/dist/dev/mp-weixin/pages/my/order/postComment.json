@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "评价",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-star": "/GraceUI5/components/gui-star",
+    "grace-select-img-and-upload-qiniu": "/components/graceSelectImgAndUploadQiniu/graceSelectImgAndUploadQiniu"
+  }
+}

@@ -1,0 +1,9 @@
+
+.gui-left-block{width:40rpx; height:40rpx; position:absolute; z-index:2; left:24rpx; top:0;}
+.gui-time-line-icon{line-height:40rpx; text-align:center; font-size:32rpx; border-radius:40rpx;}
+.gui-time-line-img{width:40rpx; height:40rpx; border-radius:40rpx;}
+.gui-time-line-body{width:650rpx; font-size:0; padding-bottom:30rpx; padding-left:60rpx;}
+.gui-time-line-txt{line-height:40rpx; font-size:26rpx; padding:20rpx;}
+.gui-time-line-time{line-height:36rpx; font-size:22rpx; display:block; text-align:right; margin-top:5px;}
+.gui-time-line-image{width:600rpx;}
+

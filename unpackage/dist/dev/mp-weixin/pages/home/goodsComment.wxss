@@ -1,0 +1,21 @@
+
+page{background-color:#F8F8F8;}
+.main{margin:20rpx;padding:0 20rpx;border-radius:20rpx;background-color:#FFFFFF;}
+.comment{padding:30rpx 0;}
+.comment:first-child:before{border:none;}
+.headimg{width:60rpx;height:60rpx;}
+.headimg image{width:100%;height:100%;border-radius:50%;}
+.rInfo{width:590rpx;}
+.rInfou{font-size:28rpx;}
+.rInfob{font-size:22rpx;color:#999999;margin-top:5rpx;}
+.desc{font-size:26rpx;color:#010101;margin-top:10rpx;}
+.imglist{margin-top:5rpx;}
+.imgli{width:160rpx;height:160rpx;margin-left:10rpx;margin-top:10rpx;}
+.imgli image{width:100%;height:100%;border-radius:10rpx;}
+.nomarginl{margin-left:0;}
+.reply{padding:20rpx;background-color:#F8F8F8;margin-top:20rpx;border-radius:20rpx;}
+.replyi{font-size:26rpx;}
+.replyt{font-size:26rpx;margin-left:20rpx;}
+.replyContent{font-size:26rpx;color:#999999;margin-top:10rpx;}
+.open{font-size:26rpx;margin-top:10rpx;}
+

@@ -1,0 +1,19 @@
+
+page{background-color:#F8F8F8;}
+.main{margin-top:20rpx;background-color:#FFFFFF;padding:0 40rpx;}
+.maini{height:100rpx;}
+.mainil{font-size:28rpx;}
+.mainir{font-size:28rpx;width:540rpx;}
+.width_{width:492rpx;font-size:28rpx;}
+.color999999{color:#9999999;}
+.mainir_{width:540rpx;height:80rpx;font-size:28rpx;line-height:34rpx;margin-top:4rpx!important;padding:0!important;}
+.maini_{padding:30rpx 0;}
+.mainirr{font-size:32rpx;color:#999999;}
+.addrTxt1{color:#999999;}
+.addrTxt2{color:#FF4F00;}
+.lb{left:30rpx;bottom:30rpx;}
+.lb2{left:30rpx;bottom:150rpx;}
+.lk{background-color:#FFFFFF;border:1px solid #FF4F00!important;color:#FF4F00;}
+.postBtn{width:690rpx;height:90rpx;margin-top:60rpx;font-size:30rpx;line-height:90rpx;padding:0;border-radius:46rpx;background-color:#FF4F00;color:#FFFFFF;border:none!important;}
+.postBtn_{width:690rpx;height:90rpx;margin-top:60rpx;font-size:30rpx;line-height:90rpx;padding:0;border-radius:46rpx;color:#FF4F00;border:thin solid #FF4F00;}
+

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的抵扣券",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-switch-navigation": "/GraceUI5/components/gui-switch-navigation",
+    "gui-image": "/GraceUI5/components/gui-image"
+  }
+}

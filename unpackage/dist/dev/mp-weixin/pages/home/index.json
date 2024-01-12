@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "gui-page": "/GraceUI5/components/gui-page",
+    "gui-image": "/GraceUI5/components/gui-image",
+    "gui-swiper": "/GraceUI5/components/gui-swiper",
+    "gui-switch-navigation": "/GraceUI5/components/gui-switch-navigation",
+    "gui-progress-scrollview": "/GraceUI5/components/gui-progress-scrollview",
+    "gui-popup": "/GraceUI5/components/gui-popup",
+    "gui-modal": "/GraceUI5/components/gui-modal"
+  }
+}
